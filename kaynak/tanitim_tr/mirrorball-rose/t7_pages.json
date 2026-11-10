@@ -1,0 +1,16 @@
+{
+ "t0": 0.012,
+ "taps": [],
+ "marks": {
+  "home": 1.210875,
+  "details": 6.0225,
+  "end": 13.04
+ },
+ "frames_used": 829,
+ "frames_all": 829,
+ "viewport": {
+  "w": 390,
+  "h": 844
+ },
+ "dpr": 2
+}

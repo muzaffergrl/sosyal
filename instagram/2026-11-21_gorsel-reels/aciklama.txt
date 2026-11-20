@@ -1,0 +1,22 @@
+Görsellerden 3 Reels (2026-11-21) — 9:16, 1080×1920, 30 fps, ~20 sn. Görseller: 2026-11-20_her-tasarim-gorsel
+(ekranlar bkestudio.com Türkçe demosunun gerçek ekranları, çevre GPT sahnesi). Kurgu: davetiye-maker/tools/promo_tr/gorsel_reels.py
+Müzikler kendi sentezimiz (platform/public/audio/music), her videoda farklı ve daha önce Reels'te kullanılmamış.
+Kare kapısı (kare_kapisi.py akis): üçünde de tek kopya 0, sıçrama 0.
+
+1_hangisi.mp4 — müzik: Andorinha
+Hangisi sizin davetiyeniz? 💌
+Kına, nişan, düğün, yılbaşı… BKE Studio'nun 75'ten fazla dijital davetiye tasarımından bir seçki. Hepsi telefonda açılan gerçek bir zarfla başlıyor.
+Kendi isimlerinizle ücretsiz deneyin: bkestudio.com/tr
+#dijitaldavetiye #düğündavetiyesi #kınadavetiyesi #nişandavetiyesi #davetiye #gelinadayı #düğünhazırlığı #bkestudio
+
+2_zarf.mp4 — müzik: Evening Strings
+Linke dokunun, zarf açılsın ✉️
+Misafiriniz davetiyenize tıklar; zarf açılır, davetiniz karşılar. Program, harita, LCV formu, müzik ve geri sayım tek sayfada; yanıtlar anında panelinizde.
+Kendi isimlerinizle ücretsiz deneyin: bkestudio.com/tr
+#dijitaldavetiye #onlinedavetiye #lcv #düğün #davetiye #gelin #düğünhazırlığı #bkestudio
+
+3_kutlama.mp4 — müzik: Harvest Moon Waltz
+Her kutlamaya bir davetiye 🥂
+Düğün, nişan & söz, kına gecesi, yılbaşı ve save the date… Hangi kutlama sizinki?
+Kendi isimlerinizle ücretsiz deneyin: bkestudio.com/tr
+#dijitaldavetiye #savethedate #yılbaşıdavetiyesi #kınagecesi #nişan #düğündavetiyesi #davetiye #bkestudio

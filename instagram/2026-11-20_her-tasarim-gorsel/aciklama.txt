@@ -1,0 +1,3 @@
+Her tasarımdan bir paylaşım görseli (2026-11-20) — 74 tasarım, 4:5, 1080×1350.
+Ekrandakiler bkestudio.com Türkçe canlı demosunun GERÇEK ekranları (kapalı zarf, açılmış iç sayfa ya da ikisi yan yana).
+Çevre (sahne, el, masa, ışık) Codex/GPT görseli. Kurgu: davetiye-maker/tools/promo_tr/tasarim_sahne.py + tasarim_sahne_fikir.py

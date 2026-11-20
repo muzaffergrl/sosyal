@@ -1,0 +1,9 @@
+Gerçek ekranlı mockup denemeleri (2026-11-21) — 4:5, 1080×1350.
+Çevre (el, masa, ışık) Codex/GPT görseli; telefon ekranı yeşil bırakıldı ve içine bkestudio.com canlı demosunun ya da
+Türkçe panelimizin GERÇEK ekran görüntüsü yerleştirildi. Ekrandaki davetiye/arayüz yapay zekâ çizimi değildir.
+Promptlar: davetiye-maker/brand/social/GPT_PROMPTS_GERCEK_EKRAN.md · kurgu: tools/promo_tr/gercek_ekran.py
+
+1_panel_el.png — Türkçe panelimiz: "Websitenizi düzenleyin" ekranı (isim, gün ve mekân, fotoğraflar, hikâye, katılım)
+2_zarf_masa.png — Toz Mavi & Şampanya: kapalı zarf (canlı demonun açılış ekranı)
+3_kina_masasi.png — Kına Taşı: açılmış davetiye, ana sayfa
+4_yilbasi.png — Yıldız Yağmuru (yılbaşı): açılmış davetiye, ana sayfa

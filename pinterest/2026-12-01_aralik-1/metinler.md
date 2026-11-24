@@ -1,4 +1,4 @@
-# Pinterest 1–7 Aralık pinleri (hazırlandı 2026-11-24, ONAY BEKLİYOR, planlanmadı)
+# Pinterest 1–7 Aralık pinleri (hazırlandı 2026-11-24, Metricool'a planlandı, otomatik yayın)
 
 Üretim: davetiye-maker `tools/pinterest/`. Yedi video akış kapısından geçti. Müzik: `../2026-11-24_ornek-pinler/MUZIK_LISANS.md`
 içindeki aynı kayıtların başka bölümleri (aşağıda). İsimler kurgudur. AI beyanı: hepsi; videolar + kişi.
@@ -6,7 +6,7 @@ içindeki aynı kayıtların başka bölümleri (aşağıda). İsimler kurgudur.
 | # | Gün / saat (TR) | Pano | Başlık | Link |
 |---|---|---|---|---|
 | 1 | Sal 1 Ara 04:00 | New Year's Eve Party Invitations | Mirror Ball New Year's Eve Party Invitation with Live Countdown and RSVP | https://www.etsy.com/listing/4612457041 |
-| 8 | Sal 1 Ara 21:00 | Yılbaşı Davetiyesi (yeni pano gerekli) | Dijital Yılbaşı Davetiyesi: Yıldız Yağmuruyla Açılan Yılbaşı Partisi Daveti | https://bkestudio.com/tr/designs/starfall-hexafold?utm_source=pinterest&utm_medium=social&utm_campaign=pin_yilbasi_starfall |
+| 8 | Sal 1 Ara 21:00 | Yılbaşı Davetiyesi | Dijital Yılbaşı Davetiyesi: Yıldız Yağmuruyla Açılan Yılbaşı Partisi Daveti | https://bkestudio.com/tr/designs/starfall-hexafold?utm_source=pinterest&utm_medium=social&utm_campaign=pin_yilbasi_starfall |
 | 6 | Çar 2 Ara 04:00 | New Year's Eve Party Invitations | New Year's Eve Party Invitation Wording: Classic, Cozy, Black Tie and Funny | https://www.etsy.com/listing/4612456815 |
 | 2 | Per 3 Ara 04:00 | New Year's Eve Party Invitations | Snow Globe Holiday Party Invitation That Opens When You Shake It, with RSVP | https://www.etsy.com/listing/4613081635 |
 | 9 | Per 3 Ara 21:00 | Kına ve Nişan Davetiyesi | Dijital Kına Davetiyesi: Çiçek Gibi Açılan Kına Gecesi Davetiyesi | https://bkestudio.com/tr/designs/kina-tasi?utm_source=pinterest&utm_medium=social&utm_campaign=pin_kina_tasi |

@@ -1,4 +1,4 @@
-# Pinterest örnek pinler (2026-11-24) — onay bekliyor, yayınlanmadı
+# Pinterest örnek pinler (2026-11-24) — 25–30 Kasım için Metricool'a planlandı
 
 Dört video da müzikli (MUZIK_LISANS.md). Kaynak: davetiye-maker `tools/pinterest/` (pin_kayit.cjs, pin_video.py, pin_gorsel.cjs). İsimler kurgudur.
 
@@ -21,19 +21,19 @@ Dört video da müzikli (MUZIK_LISANS.md). Kaynak: davetiye-maker `tools/pintere
 - Link: https://bkestudio.com/guides/what-to-put-on-your-wedding-website?utm_source=pinterest&utm_medium=social&utm_campaign=pin_checklist_en
 
 ## 4 · TR · Kına (video)
-- Pano: Kına ve Nişan Davetiyesi (yeni açılacak)
+- Pano: Kına ve Nişan Davetiyesi
 - Başlık: Dijital Kına Davetiyesi | Sırma İşlemeli Kapısı Açılan Kına Gecesi Davetiyesi
 - Açıklama: Misafiriniz mühre dokunur, sırma işlemeli kapı açılır ve kına davetiyeniz karşılar: isimleriniz, geri sayım, konum ve online LCV tek linkte. İsim, tarih ve fotoğrafı telefonunuzdan kendiniz düzenlersiniz, WhatsApp'tan paylaşırsınız. Kına gecesi davetiyesi, dijital kına davetiyesi örnekleri.
 - Link: https://bkestudio.com/tr/designs/sirma-kemer?utm_source=pinterest&utm_medium=social&utm_campaign=pin_kina_sirma
 
 ## 5 · TR · Düğün (video)
-- Pano: Dijital Düğün Davetiyesi (yeni açılacak)
+- Pano: Dijital Düğün Davetiyesi
 - Başlık: Dijital Düğün Davetiyesi | Mührü Kırılan Kırmızı Güllü Zarf, LCV'li Düğün Sitesi
 - Açıklama: Bordo zarf, altın mühür ve kırmızı güller. Misafiriniz dokunur, mühür kırılır ve davetiyeniz açılır; ardından düğün siteniz: hikâyeniz, program, konum, geri sayım ve online LCV. Telefonunuzdan kendiniz düzenler, tek linkle paylaşırsınız.
 - Link: https://bkestudio.com/tr/designs/crimson-rose-atelier?utm_source=pinterest&utm_medium=social&utm_campaign=pin_dugun_crimson
 
 ## 6 · TR · Davetiye metinleri (görsel)
-- Pano: Dijital Düğün Davetiyesi (yeni açılacak)
+- Pano: Dijital Düğün Davetiyesi
 - Başlık: Düğün Davetiyesi Metni Örnekleri | Klasik, Romantik, Samimi ve Kısa Davetiye Sözleri
-- Açıklama: Davetiyenize ne yazacağınızı düşünüyorsanız kaydedin: klasik, romantik, aile ağzından, samimi ve kısa davetiye metni örnekleri. Daha fazla örnek için rehberimize bakın.
+- Açıklama: Davetiyenize ne yazacağınızı düşünüyorsanız kaydedin: klasik, romantik, aile ağzından, samimi ve kısa davetiye metni örnekleri. Davetiye sitenizin her bölümü için metin örnekleri rehberimizde.
 - Link: https://bkestudio.com/tr/guides/wedding-website-wording?utm_source=pinterest&utm_medium=social&utm_campaign=pin_metin_tr
